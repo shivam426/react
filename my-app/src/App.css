@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600,700,800');
+
+.App {
+  text-align: center;
+  background: ;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+  font-family: 'Fira Sans', sans-serif;
+  top: 50%;
+  left: 50%;
+  margin: 50px 0 0 50px;
+  Background-Color: #b8c5e0;
+  Padding-Top: 80px;
+  Padding-Bottom: 40px;
+  Padding-Left: 80px;
+  Padding-Right:80px;
+  margin-left: 300px;
+  margin-right: 300px;
+  Margin-Bottom: 36px;
+ border-radius: 10%;
+}
+form{
+    text-align: center;
+    Border-Color: rgb(97, 93, 93);
+    Border-Width: 1px;
+}
+
+  .App-logo {
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    Height: 50px;
+  }
+  .input-box{
+      Font-Size: 18px;
+      Padding-Bottom: 12px;
+      Margin-Bottom: 36px;
+      Border-Top: 0;
+      Border-Left:0;
+      Border-Right:0;
+      Border-Bottom: 1px solid #ccc;
+      border-radius: 3%;
+  }
+  .avatar{
+    Height: 80px;
+    width: 80px;
+      Margin-Bottom: 36px;
+  }
+.sub-btn{
+  Background-Color: #0056ff;
+  Padding-Top : 12px;
+  Padding-Bottom:12px;
+  Padding-Left:24px;
+  Padding-Right: 24px;
+  Font-Size: 18px;
+  Color: white;
+  Border: None;
+  border-radius: 10%;
+}
